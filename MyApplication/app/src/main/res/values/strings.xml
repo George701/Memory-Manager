@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Memory Manager</string>
+    <string name="txt_1_dir">Enter name of the first folder</string>
+    <string name="txt_2_dir">Enter name of the second folder</string>
+    <string name="txt_3_dir">Enter name of the third folder</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_read">Read</string>
+    <string name="warning_empty_field">Please, fill out all the fields!</string>
+    <string name="warning_restricted_name"><Data><![CDATA[ A folder cannot contain following characters: / \ : * ? " < > | ]]> </Data></string>
+</resources>
